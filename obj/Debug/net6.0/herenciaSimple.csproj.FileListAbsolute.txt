@@ -1,0 +1,15 @@
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\herenciaSimple\bin\Debug\net6.0\herenciaSimple.exe
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\herenciaSimple\bin\Debug\net6.0\herenciaSimple.deps.json
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\herenciaSimple\bin\Debug\net6.0\herenciaSimple.runtimeconfig.json
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\herenciaSimple\bin\Debug\net6.0\herenciaSimple.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\herenciaSimple\bin\Debug\net6.0\herenciaSimple.pdb
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\herenciaSimple\obj\Debug\net6.0\herenciaSimple.csproj.AssemblyReference.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\herenciaSimple\obj\Debug\net6.0\herenciaSimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\herenciaSimple\obj\Debug\net6.0\herenciaSimple.AssemblyInfoInputs.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\herenciaSimple\obj\Debug\net6.0\herenciaSimple.AssemblyInfo.cs
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\herenciaSimple\obj\Debug\net6.0\herenciaSimple.csproj.CoreCompileInputs.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\herenciaSimple\obj\Debug\net6.0\herenciaSimple.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\herenciaSimple\obj\Debug\net6.0\refint\herenciaSimple.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\herenciaSimple\obj\Debug\net6.0\herenciaSimple.pdb
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\herenciaSimple\obj\Debug\net6.0\herenciaSimple.genruntimeconfig.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\herenciaSimple\obj\Debug\net6.0\ref\herenciaSimple.dll
