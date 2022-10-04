@@ -6,11 +6,15 @@
     Console.WriteLine(p);
 
     var hela = new PuertaHeladera ("Heladera Cocina");
+    Console.WriteLine("*********************************");
+    Console.WriteLine("Puerta de la heladera");
     hela.abrir();
     hela.cerrar();
     Console.WriteLine(hela);
 
     var pSeg = new PuertaSeguridad("Tranquera");
+     Console.WriteLine("*********************************");
+    Console.WriteLine("Puerta de la traquera");
     Console.WriteLine(pSeg);
     //pSeg.abrir();
     //pSeg.cerrar();
@@ -22,6 +26,8 @@
     Console.WriteLine(pSeg);
 
     var pAuto = new PuertaAuto("Ferrari");
+     Console.WriteLine("*********************************");
+    Console.WriteLine("Puerta del Ferrari");
     pAuto.abrir();
     pAuto.cerrar();
     pAuto.trabar();
